@@ -5,7 +5,7 @@
 template <class T> 
 
 std::vector<std::vector<T> > create_matrix(T(x), int(rows), int(cols)) {
-	std::vector< std::vector<int> > matrix ;
+	std::vector< std::vector<T> > matrix ;
 	std::vector<int>invector;
 		for (int j = 0; j < cols; j++) {
 			invector.push_back(x);
