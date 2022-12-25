@@ -1,6 +1,6 @@
 #include <iostream>
 #include <vector>
-#include <bits/stdc++.h>
+
 
 template <class T> 
 
